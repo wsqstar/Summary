@@ -1,6 +1,6 @@
 # 20171027 0026 ShiqiWANG summary
 
-** Busy Lazy **
+**Busy,Lazy**
 ***
 ## To do list
 - laptop failed to start,hard to fix and has spent a long time.
